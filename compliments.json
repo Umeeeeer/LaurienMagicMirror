@@ -1,67 +1,31 @@
 {
-    "anytime" : [
-        "Wat zie je er geweldig uit lieffiee!",
-        "Wat zit je haar leuk! (ook al vind je zelf van niet)",
-        "Een prachtige lach als die van jou mag je niet verbergen, onthoud dat!",
-        "Zit je makeup weer goed? Wie hou ik voor de gek. Tuurlijk wel!",
-        "Wat er ook gebeurd, ik hou van je gekkie ♥️",
-        "When in doubt, stuur je outfit foto naar 0640145794 :) *alleen Laurien",
-        "Ik hoop dat je dagje zo perfect is als je gezichtje.",
-        "Hoe lastig soms ook, het komt allemaal goed.",
-        "Je moet trots op jezelf zijn, gekkie ♥️",
-        "Je hebt de meest perfecte lach.",
-        "Je bent veel behulpzamer dan je misschien realiseerd.",
-        "I bet you're a smart cookie.",
-        "Jou lach is aanstekelijk.",
-        "Jij maakt het verschil.",
-        "Alles zou beter zijn, als iedereen een beetje meer als jij zou zijn.",
-        "Je bent geweldig",
-        "You are truly one of a kind, lieffie ♥️",
-        "Jij bent mijn reden om te lachen ♥️",
-        "You are really something special",
-        "Jij inspireerd mij om een beter persoon te zijn",
-        "Je ziet er weer stralend uit!",
-        "Je hebt een hele goede kledingstijl!",
-        "Today's outfit = perfect",
-        "You're the best",
-        "You're awesome",
-        "Never stop being awesome lieffie",
-        "Heb je Umeer al gebeld vandaag? Hij mist je vast..",
-        "Kan niet wachten om je weer te zien lieverd ♥️♥️♥️",
-        "Meiden moeten jaloers zijn op jou pefecte haar",
-        "Zou willen dat ik deze spiegel had kunnen zijn op dit moment...",
-        "Kijk je alweer naar jezelf? Nouja.. snap ik wel hoor..",
-        "Kan niet wachten op je weer een kus te geven",
-        "Welke film gaan we kijken later?",
-        "Heb je al water gedronken?",
-        "Niet teveel stressen he, gekkie!",
-        "It's going to be alright",
-    ],
-    "morning" : [
-        "Good morning lieffieeeeee! ♥️",
-        "Hey lieffiee, lekker geslapen?",
-        "Uitgerust en klaar voor de dag?",
-        "Goooood morning lieffie, I love you ♥️♥️",
-        "Wou dat ik deze ochtend bij je kon zijn...",
-        "Lekker gedroomd?",
-        "Goedemorgen lieffie van me! Vandaag is jou dagje ♥️",
-        "Wou dat ik naast je wakker werd, but sadly no. But.. Hey! Goedemorgen gekkie ♥️",
-        "Goedemorgen babyyy, wat ga je ontbijten vandaag?",
-        "Vandaag is jou dag gekkie!",
-        "Nog maar een paar dagen dan dan kan ik je weer in de ochtend knuffelen.",
-        "Wat ben jij vroeg zeg! You got this tho..",
-        "Heb je het druk vandaag? Vergeet niet om soms even rustig te doen he.. en ontbijt, ook belangrijk. Een leuk meisje vertelde dat me een keer."
-    ],
-    "afternoon" : [
-        "Bijna avond, nog even doorgaan!",
-        "Life is too short for matching socks",
-        "Een tussendoortje mag wel, met dat lichaam van jou",
-        "Je ziet er nog steeds geweldig uit lieffie ♥️"
-    ],
-    "evening" : [
-        "Jij hebt vandaag iemand laten lachen. Ik weet het zeker.",
-        "Jij bent iemand zijn dag vandaag beter gemaakt. I know so.",
-        "Het is avond en je ziet er NOG STEEDS perfect uit. HOE DAN.",
-        "Je bent de dag weer doorgekomen, ben trots op je gekkie!",
-    ]
+        "anytime" : [
+                "Je ziet er geweldig uit vandaag!",
+                "Wat een geweldige dag vandaag!",
+                "Jij maakt vandaag het verschil!",
+                "Een prachtige lach, voor een prachtige dag",
+                "Kijk je nog steeds naar de spiegel?",
+                "Hallo, ik ben El, Spieg El"
+
+        ],
+        "morning" : [
+                "Wat zit je haar weer goed vandaag!",
+                "Begin de dag met een lach!",
+                "Het zal weer een prachtige dag worden!",
+                "Is het niet een leuke dag?",
+                "Bereid je voor op een leuke dag!"
+        ],
+        "afternoon" : [
+                "Nog even je werk afmaken...",
+                "Middag, niet de avond, niet de ochtend",
+                "Is dit niet een leuke dag?",
+                "Bijna etenstijd!"
+        ],
+        "evening" : [
+                "En nu op naar de vergadering.",
+                "Eet smakelijk!",
+                "Even rust, heerlijk....",
+                "Jij hebt het verschil gemaakt!",
+                "Was het eten lekker?"
+        ]
 }
